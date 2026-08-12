@@ -3,6 +3,6 @@
     "pack_format": 69,
     "min_format": [69, 0],
     "max_format": [999, 0],
-    "description": "The default look and feel of Minecraft (template pack)"
+    "description": "GlobalMusic resource pack: exposes globalmusic:* sound events, aliasing vanilla music/records where possible"
   }
 }
